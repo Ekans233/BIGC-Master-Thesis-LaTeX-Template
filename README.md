@@ -25,7 +25,8 @@
 
 ## 主要项目负责人
 
-[@瓦尔哈拉的Jill本人](https://github.com/Ekans233)也就是我自己
+[@瓦尔哈拉的Jill本人](https://github.com/Ekans233)也就是我自己；
+还有各种各样的LLM们：Github Copilot, Codex, Claude Code, Xiaomi Mimo
 
 ## 参与贡献方式
 
