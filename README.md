@@ -7,6 +7,11 @@
 ```
 
 ![Stone Badge](https://stone.professorlee.work/api/stone/Ekans233/BIGC-Master-Thesis-LaTeX-Template)
+![GitHub License](https://img.shields.io/github/license/Ekans233/BIGC-Master-Thesis-LaTeX-Template)
+![GitHub Stars](https://img.shields.io/github/stars/Ekans233/BIGC-Master-Thesis-LaTeX-Template)
+![Last Commit](https://img.shields.io/github/last-commit/Ekans233/BIGC-Master-Thesis-LaTeX-Template)
+![XeLaTeX](https://img.shields.io/badge/XeLaTeX-Required-blue)
+![BIGC](https://img.shields.io/badge/BIGC-北京印刷学院-red)
 
 > 学校不提供官方 LaTeX 模板，于是自己按撰写规范搭建了一套 (ง •̀_•́)ง
 > 开箱即用，格式无误，论无忧查重万字错误率为 0 ✿
@@ -65,7 +70,7 @@ BIGC_LatexTemplate/
 
 [@绿青馆的猫猫本人](https://github.com/Ekans233)
 
-感谢 GitHub Copilot、Claude Code、Codex、Mimo 等 AI 工具的辅助 (ﾉ>ω<)ﾉ
+感谢 GitHub Copilot、Claude Code、Mimo 等 AI 工具的辅助 (ﾉ>ω<)ﾉ
 
 ## ♡ 建议与反馈
 
