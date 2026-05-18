@@ -10,9 +10,7 @@
 - [背景](#背景)
 - [用法](#用法)
 - [主要项目负责人](#主要项目负责人)
-- [参与贡献方式](#参与贡献方式)
-    - [贡献人员](#贡献人员)
-- [开源协议](#开源协议)
+
 
 ## 背景
 
@@ -28,18 +26,4 @@
 [@瓦尔哈拉的Jill本人](https://github.com/Ekans233)也就是我自己；
 还有各种各样的LLM们：Github Copilot, Codex, Claude Code, Xiaomi Mimo
 
-## 参与贡献方式
 
-[![](https://img.shields.io/badge/%E7%94%B3%E8%AF%B7-Pull%20Request-orange)](https://github.com/sunyctf/ChineseREADME/pulls)
-
-提交 [PR](https://github.com/sunyctf/ChineseREADME/pulls) 申请，我会视情况通过。
-
-### 贡献人员
-
-感谢所有贡献的人。
-
-[@Andy](https://github.com/sunyctf)
-
-## 开源协议
-
-[MIT](LICENSE) © Andy
