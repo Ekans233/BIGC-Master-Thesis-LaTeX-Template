@@ -3,7 +3,7 @@
 
 ![Stone Badge](https://stone.professorlee.work/api/stone/Ekans233/BIGC-Master-Thesis-LaTeX-Template)
 
-README 文件通常是代码的第一个入口点。它应该告诉别人如何安装它，以及如何使用它。标准化编写 README 的方式可简化创建和维护你的 README 。
+如果你喜欢的话，请点个star喵/If you like it Plz star it ⭐
 
 ## 目录
 
