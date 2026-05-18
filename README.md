@@ -3,7 +3,7 @@
 
 ![Stone Badge](https://stone.professorlee.work/api/stone/Ekans233/BIGC-Master-Thesis-LaTeX-Template)
 
-如果你喜欢的话，请点个star喵/If you like it Plz star it ⭐
+如果你喜欢的话，请点个star喵⭐/If you like it Plz star it ⭐
 
 ## 目录
 
