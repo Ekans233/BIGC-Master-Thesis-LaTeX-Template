@@ -1,7 +1,7 @@
 # BIGC-Master-Thesis-LaTeX-Template
 如题所示，这是一份由我自己和LLM总结并生成的一套完整的LaTeX硕士学位论文模板（因为学校不提供）。可以做到开包即用，格式没有任何问题，并且通过了论无忧的查重。
 
-[![](https://img.shields.io/badge/%E4%B8%BB%E9%A1%B5-sunyctf%2FChineseREADME-orange)](https://github.com/sunyctf/ChineseREADME)
+![Stone Badge](https://stone.professorlee.work/api/stone/Ekans233/BIGC-Master-Thesis-LaTeX-Template)
 
 README 文件通常是代码的第一个入口点。它应该告诉别人如何安装它，以及如何使用它。标准化编写 README 的方式可简化创建和维护你的 README 。
 
