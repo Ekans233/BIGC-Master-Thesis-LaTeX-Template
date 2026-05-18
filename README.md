@@ -21,9 +21,10 @@
 
 ## ♡ 快速开始
 
-1. 编辑 `config/metadata.tex`，填入你的个人信息（姓名、学号、导师、题目等）
-2. 在 `chapters/` 目录下撰写各章内容
-3. 编译：
+1. 下载Release里的压缩包并解压
+2. 编辑 `config/metadata.tex`，填入你的个人信息（姓名、学号、导师、题目等）
+3. 在 `chapters/` 目录下撰写各章内容
+4. 编译：
 
 ```bash
 xelatex  BIGC_Masters_Thesis.tex
