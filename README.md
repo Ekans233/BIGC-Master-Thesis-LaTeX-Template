@@ -7,7 +7,6 @@
 ```
 
 ![Stone Badge](https://stone.professorlee.work/api/stone/Ekans233/BIGC-Master-Thesis-LaTeX-Template)
-![GitHub License](https://img.shields.io/github/license/Ekans233/BIGC-Master-Thesis-LaTeX-Template)
 ![GitHub Stars](https://img.shields.io/github/stars/Ekans233/BIGC-Master-Thesis-LaTeX-Template)
 ![Last Commit](https://img.shields.io/github/last-commit/Ekans233/BIGC-Master-Thesis-LaTeX-Template)
 ![XeLaTeX](https://img.shields.io/badge/XeLaTeX-Required-blue)
