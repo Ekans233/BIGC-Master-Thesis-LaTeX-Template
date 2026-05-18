@@ -65,7 +65,7 @@ BIGC_LatexTemplate/
 
 [@瓦尔哈拉的Jill本人](https://github.com/Ekans233)
 
-感谢 GitHub Copilot、Claude Code、Mimo 等 AI 工具的辅助 (ﾉ>ω<)ﾉ
+感谢 GitHub Copilot、Claude Code、Codex、Mimo 等 AI 工具的辅助 (ﾉ>ω<)ﾉ
 
 ## ♡ 建议与反馈
 
