@@ -63,7 +63,7 @@ BIGC_LatexTemplate/
 
 ## ♡ 主要负责人
 
-[@瓦尔哈拉的Jill本人](https://github.com/Ekans233)
+[@绿青馆的猫猫本人](https://github.com/Ekans233)
 
 感谢 GitHub Copilot、Claude Code、Codex、Mimo 等 AI 工具的辅助 (ﾉ>ω<)ﾉ
 
