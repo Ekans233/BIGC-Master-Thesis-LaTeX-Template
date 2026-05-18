@@ -69,7 +69,7 @@ BIGC_LatexTemplate/
 
 [@绿青馆的猫猫本人](https://github.com/Ekans233)
 
-感谢 GitHub Copilot、Claude Code、Mimo 等 AI 工具的辅助 (ﾉ>ω<)ﾉ
+感谢 GitHub Copilot、Claude Code、Mimo 等 LLM 工具的辅助 (ﾉ>ω<)ﾉ
 
 ## ♡ 建议与反馈
 
