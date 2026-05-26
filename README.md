@@ -77,7 +77,6 @@ BIGC_LatexTemplate/
 
 有建议可以直接 [提 issue](https://github.com/Ekans233/BIGC-Master-Thesis-LaTeX-Template/issues)，看见就会回复的~
 
----
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Ekans233/BIGC-Master-Thesis-LaTeX-Template&type=Date)](https://star-history.com/#Ekans233/BIGC-Master-Thesis-LaTeX-Template&Date)
